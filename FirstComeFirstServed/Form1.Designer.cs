@@ -404,9 +404,9 @@
             this.label4.Font = new System.Drawing.Font("Palatino Linotype", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(3, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(156, 38);
+            this.label4.Size = new System.Drawing.Size(167, 38);
             this.label4.TabIndex = 0;
-            this.label4.Text = "Gantt Chat";
+            this.label4.Text = "Gantt Chart";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // button1
